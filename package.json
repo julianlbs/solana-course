@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "generate": "npx esrun generate-keypair.ts",
-    "load": "npx esrun load-keypair.ts"
+    "load": "npx esrun load-keypair.ts",
+    "check-balance": "npx esrun check-balance.ts"
   },
   "keywords": [],
   "author": "",
