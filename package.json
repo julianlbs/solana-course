@@ -6,7 +6,8 @@
   "scripts": {
     "generate": "npx esrun generate-keypair.ts",
     "load": "npx esrun load-keypair.ts",
-    "check-balance": "npx esrun check-balance.ts"
+    "check-balance": "npx esrun check-balance.ts",
+    "transfer": "npx esrun transfer.ts DPxe3juWL2QNY2jBfvqQ9KzAqpTPTkFWVeeKxjf1EDMW"
   },
   "keywords": [],
   "author": "",

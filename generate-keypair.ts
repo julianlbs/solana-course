@@ -9,4 +9,3 @@ export function generateKeyPair(): Keypair {
 
   return keypair
 }
-
